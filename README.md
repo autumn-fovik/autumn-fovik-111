@@ -22,4 +22,4 @@
 
 **My repositories**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-fovik&repo=soybean-admin)](https://github.com/autumn-fovik/Icms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-fovik&repo=Icms)](https://github.com/autumn-fovik/Icms)
