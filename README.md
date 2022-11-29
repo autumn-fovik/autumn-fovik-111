@@ -1,23 +1,16 @@
 <h2 align="center">👋 Hello! I'm Soybean.</h2>
 
 
-I'm a front-end developer, have more than three years of experience in web development.
-
-- 🔭 I’m currently working on **An admin template - Soybean Admin, based on Vue3+Vite+TypeScript+NaiveUI **
-- 🌱 I'm good at writing clean and high quality standard code.
-- 📫 How to reach me: Wechat(honghuangdc)、qq(2570172956)、gmail(honghuangdc@gmail.com).
 
 **languages and tools:**  
 
-- Vue、React.
+- Vue.
 - TypeScript、Nodejs、deno.
 - Nuxt、Ionic、Uniapp、React Native.
 - Vite、Webpack.
 - AntV、ECharts、Charts.js、d3、threejs.
 
 
-**open source project:**  
-- [soybean-admin](https://github.com/honghuangdc/soybean-admin): A fresh and elegant admin template, based on Vue3、Vite3、TypeScript、NaiveUI and UnoCSS.
 
 
 📈  **My github stats**
@@ -29,4 +22,4 @@ I'm a front-end developer, have more than three years of experience in web devel
 
 **My repositories**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-fovik&repo=soybean-admin)](https://github.com/autumn-fovik/soybean-admin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-fovik&repo=soybean-admin)](https://github.com/autumn-fovik/Icms)
